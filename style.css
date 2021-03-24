@@ -1,0 +1,24 @@
+article {
+    flex-wrap: wrap;
+    margin: 30px;
+}
+header {
+    padding: 15px;
+    text-align: center;
+    background: darkred;
+    color: white;
+    font-size: 30px;
+}
+input {
+    margin: 50px;
+    margin-left: 75px;
+}
+li {
+
+}
+a {
+    font-size: 30px;
+}
+p {
+    width: 50%;
+}
